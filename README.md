@@ -1,2 +1,6 @@
-# drag-drop-directive-angular
-Drag and Drop Directive Angular
+# DrapDropDirective
+
+This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.0.
+
+# Install
+npm i drag-drop-directive
