@@ -1,6 +1,11 @@
 {
   "name": "drag-drop-directive",
-  "version": "0.0.1",
+  "author": "Aekam27",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aekam27/drag-drop-directive-angular.git"
+},
+  "version": "0.0.2",
   "peerDependencies": {
     "@angular/common": "^17.2.0",
     "@angular/core": "^17.2.0"
